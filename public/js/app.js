@@ -1,7 +1,3 @@
-console.log('Client side javscript file has loaded...');
-
-
-
 const weatherForm= document.querySelector('form');
 const searchInput = document.querySelector('input')
 const resultParagraph_1 = document.querySelector('#weatherResult-1');  
